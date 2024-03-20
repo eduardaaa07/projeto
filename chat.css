@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: #c489ab;
+    text-align: center;
+}
+.chat-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.chat-form button {
+    display: block;
+    margin: 10px auto;
+    padding: 5px 10px;
+    background-color: #e9bbd2;
+    color: #000;
+    border-radius: 20pc;
+    cursor: pointer;
+}
